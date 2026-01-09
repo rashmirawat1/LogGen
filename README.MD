@@ -56,7 +56,7 @@ It serves as a self-contained demonstration of a basic end-to-end log analytics 
 - Statistical Analysis
 - Log volume time-series visualization
 
-![Screenshot-1](screenshots/Screenshot-1.png)
+![Figure](Images/Figure.png)
 
 **Educational value:**
 - Synthetic data generation with random + string
