@@ -67,6 +67,7 @@ It serves as a self-contained demonstration of a basic end-to-end log analytics 
 - End-to-end scripting for data analysis tasks
 
 ### Library Usage 
+'''
 Log_generator.py
    ┌───────────────┐
    │   random      │
@@ -104,7 +105,7 @@ Data_processing.py
    ┌─────────────────────┐
    │   matplotlib.pyplot │ ──► visualization of daily log volume
    └─────────────────────┘
-
+'''
 ## Happy learning
 Feel free to use, modify and learn from this code!
 Happy logging & analyzing! 🪵📊
